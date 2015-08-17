@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Word</key>
+	<dict>
+		<key>EasyWords</key>
+		<dict>
+			<key>irritated</key>
+			<string>frustrated</string>
+			<key>frustrated</key>
+			<string>irritated</string>
+			<key>roomy</key>
+			<string>spacious</string>
+			<key>spacious</key>
+			<string>roomy</string>
+			<key>very old</key>
+			<string>ancient</string>
+			<key>ancient</key>
+			<string>very old</string>
+			<key>wet</key>
+			<string>soaked</string>
+			<key>soaked</key>
+			<string>wet</string>
+			<key>quiet</key>
+			<string>silent</string>
+			<key>silent</key>
+			<string>quiet</string>
+			<key>big</key>
+			<string>immense</string>
+			<key>immense</key>
+			<string>big</string>
+			<key>vulgar</key>
+			<string>rude</string>
+			<key>rude</key>
+			<string>vulgar</string>
+			<key>exquisite</key>
+			<string>beautiful</string>
+			<key>beautiful</key>
+			<string>exquisite</string>
+		</dict>
+		<key>NormalWords</key>
+		<dict>	
+			<key>perilous</key>
+			<string>risky</string>
+			<key>risky</key>
+			<string>perilous</string>
+			<key>very neat</key>
+			<string>immaculate</string>
+			<key>immaculate</key>
+			<string>very neat</string>
+			<key>ecstatic</key>
+			<string>joyful</string>
+			<key>joyful</key>
+			<string>ecstatic</string>
+			<key>appropriate</key>
+			<string>suitable</string>
+			<key>suitable</key>
+			<string>appropriate</string>
+			<key>worried</key>
+			<string>anxious</string>
+			<key>anxious</key>
+			<string>worried</string>
+			<key>bright</key>
+			<string>dazzling</string>
+			<key>dazzling</key>
+			<string>bright</string>
+			<key>startled</key>
+			<string>shocked</string>
+			<key>shocked</key>
+			<string>startled</string>
+		</dict>
+		<key>HardWords</key>
+		<dict>
+			<key>mad</key>
+			<string>enraged</string>
+			<key>enraged</key>
+			<string>mad</string>
+			<key>confident</key>
+			<string>proud</string>
+			<key>proud</key>
+			<string>confident</string>
+			<key>thirsty</key>
+			<string>parched</string>
+			<key>parched</key>
+			<string>thirsty</string>
+			<key>atrocious</key>
+			<string>bad</string>
+			<key>bad</key>
+			<string>atrocious</string>
+			<key>solemn</key>
+			<string>serious</string>
+			<key>serious</key>
+			<string>solemn</string>
+			<key>interested</key>
+			<string>amused</string>
+			<key>amused</key>
+			<string>interested</string>
+			<key>very clean</key>
+			<string>spotless</string>
+			<key>spotless</key>
+			<string>very clean</string>
+			<key>excited</key>
+			<string>eager</string>
+			<key>eager</key>
+			<string>excited</string>
+		</dict>	
+	</dict>
+</dict>
+</plist>
